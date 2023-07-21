@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimat9k&label=Profile%20views&color=0e75b6&style=flat" alt="abhimat9k" /> </p>
 
-- 🌱 I’m currently learning **Networking and Java database Programming**
+- 🌱 I’m currently learning **Web Development and Problem Solving**
 
 - 👯 I’m looking to collaborate with **other developers**
 

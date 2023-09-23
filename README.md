@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 🥅 2022 Goals: **Learn about Cybersecurity and Privacy**
+- 🥅 2023 Goals: **Learn about React**
 
 - 📫 How to reach me **abhimatkala48@gmail.com**
 

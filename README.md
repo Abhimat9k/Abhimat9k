@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimat9k&label=Profile%20views&color=0e75b6&style=flat" alt="abhimat9k" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Problem Solving**
+- 🌱 I’m currently learning **Full Stack Development and Problem Solving.**
 
-- 👯 I’m looking to collaborate with **other developers**
+- 👯 I’m looking to collaborate with **other developers.**
 
-- 🥅 2024 Goals: **Learn about new technologies and stay updated with the latest trends and advancements in the tech world.**
+- 🥅 **2024 Goals:** Learn about new technologies and stay updated with the latest trends and advancements in the tech world.
 
-- 📫 How to reach me: **abhimatkala48@gmail.com**
+- 📫 **How to reach me:** abhimatkala48@gmail.com
 
-- ⚡ Fun fact: **I love to play Cricket & Football**
+- ⚡ **Fun fact:** I love to travel and watch sports.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
